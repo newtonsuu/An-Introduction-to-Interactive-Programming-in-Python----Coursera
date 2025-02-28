@@ -1,4 +1,4 @@
-# @ Author: UTKARSH PATHRABE
+# @ Author: Jericho Guanga
 
 # Implementation of classic arcade game Pong
 
