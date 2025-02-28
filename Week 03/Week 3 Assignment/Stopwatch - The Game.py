@@ -1,4 +1,5 @@
-# @ Author : Utkarsh Ashok Pathrabe
+
+# @ Author : Jericho Guanga
 
 # Implementation of "Stopwatch: The Game"
 import simplegui
